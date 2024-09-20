@@ -2,7 +2,6 @@
 
 Nice to see you here!
 
-## Map details
 ## Exploring the map
 
 You can explore the map either
