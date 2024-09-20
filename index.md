@@ -14,7 +14,7 @@ or
 
 ## Made with:
 - QGIS [3.8](https://qgis.org/project/visual-changelogs/visualchangelog38/)
-- [qgis2web](https://plugins.qgis.org/planet/tag/colour/)
+- [qgis2web](https://plugins.qgis.org/planet/tag/colour/) (leaflet)
 - [SRTM 30m](https://10.5067/MEaSUREs/SRTM/SRTMIMGM.003)
 - [National Park Service Boundaries](https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True)
 - Open Street Map
